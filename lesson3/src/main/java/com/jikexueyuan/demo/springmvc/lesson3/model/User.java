@@ -62,7 +62,7 @@ public class User implements Serializable {
 	@Override
 	public String toString() {
 		// TODO Auto-generated method stub
-		return userName+ " " + password + " " + " " + realName + " " + email + " " + age;
+		return  userName+ " " + password + " " + " " + realName + " " + email + " " + age;
 	}
 	
 	
